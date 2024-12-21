@@ -1,9 +1,8 @@
 # Wisdom's Portfolio 🌟
 
-I have made some adjustments to my code so that it fits into all devices. Here is the link to try it out: 
+I have made some adjustments to my code so that it fits into all devices. Here is the link to try it out: https://isdomalibe.github.io/Portfolio/
 
 Welcome to my personal portfolio! This website is a brief introduction to who I am, my skills, my interests, and more. It's a great way for you to get to know me better and see what I’m passionate about.
-Here is the link to try it out: https://isdomalibe.github.io/My-Personal-Portfolio-Update/
 
 ## 💼 About Me  
 Hello! I'm **Wisdom**, an aspiring programmer with a passion for creating web applications and exploring the world of programming. I’m always excited to learn and grow, and I aim to improve my skills every day.
